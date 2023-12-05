@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=off-nadir-insight&label=Profile%20views&color=0e75b6&style=flat" alt="off-nadir-insight" /> </p>
 
-- 🔭 I’m currently working through **Cloud Code Academy**
+- 🔗 Connect with me on LinkedIn: **https://www.linkedin.com/in/off-nadir-insight/**
+
+- 🔭 I’m currently working through [**Cloud Code Academy**](https://www.cloudcodeacademy.com)
 
 - 🌱 I’m currently learning **Apex, SOQL, LWCs**
 
-<h3 align="left">Connect with me:</h3>
+<a href="https://linkedin.com/in/https:linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https:linkedin" height="30" width="40" /></a>
 <p align="left">
 </p>
 
